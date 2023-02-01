@@ -10,5 +10,4 @@ describe('Game', function() {
     const game = new Game();
     expect(Game).to.be.a('function');
   });
-  it()
 });
