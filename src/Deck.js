@@ -1,8 +1,11 @@
 class Deck {
-  constructor() {
-    this.cards = deck
+  constructor(flashCards) {
+    this.cards = flashCards
 
   }
+  countCards(){
+    return this.cards.length;
+  };
 }
 
 module.exports = Deck

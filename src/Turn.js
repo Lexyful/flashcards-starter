@@ -3,7 +3,7 @@ class Turn {
     this.guess = guess
     this.card = card
     this.correct
-    console.log(card)
+
   }
   returnGuess(){
   return this.guess
