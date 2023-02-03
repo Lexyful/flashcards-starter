@@ -1,6 +1,6 @@
 class Deck {
   constructor(cards) {
-    this.cards = cards
+    this.cards = cards;
 
   }
   countCards(){
@@ -8,4 +8,4 @@ class Deck {
   };
 }
 
-module.exports = Deck
+module.exports = Deck;
