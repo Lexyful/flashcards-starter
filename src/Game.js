@@ -29,20 +29,20 @@ class Game {
   return this.currentRound;
 }
 
-  printMessage(deck, round) {
-    console.log(`Welcome to FlashCards! You are playing with ${deck.countCards()} cards.
------------------------------------------------------------------------`)
-  }
-
-  printQuestion(round) {
-      util.main(round);
-  }
-  start(){
-   const deck = this.createDeck();
-    const round = this.createNewRound();
-    this.printMessage(deck, round);
-    this.printQuestion(round);
-  }
+start(){
+ const deck = this.createDeck();
+  const round = this.createNewRound();
+  this.printMessage(deck, round);
+  this.printQuestion(round);
+}
+printMessage(deck, round) {
+  console.log(`Welcome to FlashCards! You are playing with ${deck.countCards()} cards.
+  -----------------------------------------------------------------------`)
 }
 
+printQuestion(round) {
+  util.main(round);
+}
+
+}
 module.exports = Game;
