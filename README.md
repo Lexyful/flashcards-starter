@@ -5,7 +5,7 @@ Installation Instructions:
 Open up the terminal and paste the SSH code after typing git clone in the terminal. Next enter the repesitory with the cd command. Then type code . and the code will come up in the text editer. Then in the terminal type node index.js and the application will open in the browser. 
 
 Preview of App:
-![Alt Text](flashcards.mov)
+![Alt Text](/Users/alexysjordan/Mod2/flashcards-starter/flashcards.mov)
 
 Context:
 The project took about 30 hours to complete. I'm just at the end of Mod1.
