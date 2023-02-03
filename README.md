@@ -5,10 +5,10 @@ Installation Instructions:
 Open up the terminal and paste the SSH code after typing git clone in the terminal. Next enter the repesitory with the cd command. Then type code . and the code will come up in the text editer. Then in the terminal type node index.js and the application will open in the browser. 
 
 Preview of App:
-![Alt Text](/Users/alexysjordan/Mod2/flashcards-starter/flashcards.mov)
+![Alt text](https://media2.giphy.com/media/banHvvgdTc3yHGACHN/giphy.gif?cid%3D790b7611478ae341b8642146e642ca3e4df1087154288815%26rid%3Dgiphy.gif%26ct%3Dg)
 
 Context:
-The project took about 30 hours to complete. I'm just at the end of Mod1.
+The project took about 25 hours to complete. I'm just at the end of week 1 of Mod2.
 
 Contributors:
 Lexye https://github.com/Lexyful/ --Lexye
